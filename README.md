@@ -5,5 +5,5 @@ Proiectul acesta este o simpla aplicatie de vreme in care user-ul introduce un o
 * Python
 
 ## Cateva imagini din culisele proiectului
-![Image Code](Image RestApi/RestApi1.png)
+![Image Code](ImageRestApi/RestApi1.png)
 ![Image Outcome](photoRepository/BackEnd1.png)
